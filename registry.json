@@ -1,14 +1,14 @@
 [
     {
         "uri": "superMario",
-        "name": "Super Mario",
-    }
-        {
+        "name": "Super Mario"
+    },
+    {
         "uri": "Sonic",
-        "name": "Sonic",
-        }
-        {
+        "name": "Sonic"
+    },
+    {
         "uri": "Tetris",
-        "name": "Tetris",
-        }
+        "name": "Tetris"
+    }
 ]
