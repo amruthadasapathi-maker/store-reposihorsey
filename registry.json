@@ -3,4 +3,12 @@
         "uri": "superMario",
         "name": "Super Mario"
     }
+        {
+        "uri": "Sonic",
+        "name": "Sonic"
+        }
+        {
+        "uri": "Tetris",
+        "name": "Tetris"
+        }
 ]
