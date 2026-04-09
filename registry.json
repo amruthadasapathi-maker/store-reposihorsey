@@ -1,14 +1,17 @@
 [
     {
         "uri": "superMario",
-        "name": "Super Mario"
+        "name": "Super Mario",
+        "imgId": "https://cdn.mobygames.com/covers/4037177-super-mario-land-game-boy-front-cover.jpg"
     },
     {
         "uri": "Sonic",
-        "name": "Sonic"
+        "name": "Sonic",
+        "imgId": "https://cdn.mobygames.com/covers/4089338-sonic-advance-game-boy-advance-front-cover.jpg"
     },
     {
         "uri": "Tetris",
-        "name": "Tetris"
+        "name": "Tetris",
+        "imgId": "https://cdn.mobygames.com/covers/5747316-tetris-dx-game-boy-color-front-cover.jpg"
     }
 ]
